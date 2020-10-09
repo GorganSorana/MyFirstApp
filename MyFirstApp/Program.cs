@@ -9,4 +9,8 @@ namespace MyFirstApp
             Console.WriteLine("Hello World!    ");
         }
     }
+    class MyClass
+    {
+
+    }
 }
